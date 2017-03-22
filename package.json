@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Giovanna8/slang/issues"
   },
-  "homepage": "https://github.com/Giovanna8/slang#readme"
+  "homepage": "https://github.com/Giovanna8/slang#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "nodemon": "^1.11.0"
+  }
 }
