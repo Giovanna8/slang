@@ -1,8 +1,8 @@
 {
-  "name": "TranslatorProject",
+  "name": "Slang_Translator_Project",
   "version": "1.0.0",
   "description": "A Personalized Slang Spanish to English Translator",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Giovanna8/slang.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Giovanna Calderoni",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Giovanna8/slang/issues"
@@ -23,5 +23,8 @@
     "firebase": "^3.7.3",
     "mongoose": "^4.9.1",
     "nodemon": "^1.11.0"
+  },
+  "devDependencies": {
+    "gatsby": "^0.12.39"
   }
 }

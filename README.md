@@ -1,25 +1,27 @@
-# Slang App README
+# README for Giovanna's Slang Translator Project
 
-### Prerequisites
+## A personal project for translating common Spanish slang phrases into English. 
 
+### Created with:
+- React
+- JavaScript
 - Firebase
+- Express
+- MongoDB
 
 
-### API
-<https://firebase.google.com/>
-
+### API's Used:
+Firebase: <https://firebase.google.com/>
 - Logging and autheticating <https://firebase.google.com/docs/auth/>
 
 
 ### Data
 
-How data is entered.
+How data is entered:
 
 - User logs in
 - User can search words or add new words to the database
 - Words are stored in the api and are public
-
-
 
 
 ### Markdown Cheetsheet
