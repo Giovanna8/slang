@@ -13,9 +13,9 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-// Initialize Firebase
-// TODO: Replace with your project's customized code snippet
-var config = {
+// The following initializes Firebase:
+    // TODO: Replace code snippet
+const config = {
   apiKey: "<API_KEY>",
   authDomain: "<PROJECT_ID>.firebaseapp.com",
   databaseURL: "https://<DATABASE_NAME>.firebaseio.com",
