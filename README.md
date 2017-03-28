@@ -14,14 +14,19 @@
 Firebase: <https://firebase.google.com/>
 - Logging and autheticating <https://firebase.google.com/docs/auth/>
 
+Translation:
+- Microsoft Azure 
 
 ### Data
 
 How data is entered:
 
 - User logs in
-- User can search words or add new words to the database
+- Using a chatbot they can search for phrases/words in the db.
 - Words are stored in the api and are public
+
+### Future Plans
+- If search comes up empty chatbot will send a request to add phrase/word to db.
 
 
 ### Markdown Cheetsheet
