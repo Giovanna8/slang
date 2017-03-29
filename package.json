@@ -1,8 +1,8 @@
 {
-  "name": "Slang_Translator_Project",
+  "name": "Translator Project",
   "version": "1.0.0",
   "description": "A Personalized Slang Spanish to English Translator",
-  "main": "app.js",
+  "main": "src/chatbot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -15,7 +15,7 @@ Firebase: <https://firebase.google.com/>
 - Logging and autheticating <https://firebase.google.com/docs/auth/>
 
 Translation:
-- Microsoft Azure 
+- Microsoft Azure Translation Text API 
 
 ### Data
 
