@@ -1,5 +1,3 @@
-// Azure Translator API: https://api.cognitive.microsoft.com/sts/v1.0
-
 import React, { Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
