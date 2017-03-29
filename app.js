@@ -1,3 +1,6 @@
+/* eslint-disable no-console */
+/* eslint-disable max-len */
+
 import React, { Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
@@ -37,7 +40,9 @@ ReactDOM.render(
     /* Something goes here maybe... */ document.getElementById()
 );
 
-/* Yea, don't really know where to put this...
+/* ChatBot Code:
+
+Yea, don't really know where to put this...
 
 1. parameter: the pattern to listen for 
 2. parameter: either "response" to respond or "rewrite" to rewrite the request 
