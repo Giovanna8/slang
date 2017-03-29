@@ -7,7 +7,7 @@ import chatbot from 'chatbot';
 import express from 'express';
 
 
-class ChatBot extends React.Component {
+export default class ChatBot extends React.Component {
     constructor(props) {
         super(props);
 
