@@ -1,12 +1,11 @@
 /* eslint-disable no-console */
 /* eslint-disable max-len */
 
-import React, { Component, PropTypes } from 'react';
+import React from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
 import chatbot from 'chatbot';
 import firebase from 'firebase';
-
 
 export default class ChatBot extends React.Component {
     constructor(props) {
