@@ -6,9 +6,6 @@
 - React
 - JavaScript
 - Firebase
-- Express
-- MongoDB
-
 
 ### API's Used:
 Firebase: <https://firebase.google.com/>

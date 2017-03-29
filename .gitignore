@@ -2,3 +2,8 @@ node_modules
 
 TODO.md
 
+./server
+ server.js
+
+./models
+ db.js

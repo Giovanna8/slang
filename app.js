@@ -5,7 +5,7 @@ import React, { Component, PropTypes } from 'react';
 import ReactDOM from 'react-dom';
 import axios from 'axios';
 import chatbot from 'chatbot';
-import express from 'express';
+import firebase from 'firebase';
 
 
 export default class ChatBot extends React.Component {
